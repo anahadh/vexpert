@@ -9,8 +9,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        'darkest-bg': '#2e1065',
+        'dark-bg': '#581c87',
+        'medium-bg': '#7c3aed',
+        'light-bg': '#c084fc',
+      },
+      fontFamily: {
+        title: ['Outfit', 'sans-serif'],
+        text: ['Poppins', 'sans-serif'],
       },
     },
   },
