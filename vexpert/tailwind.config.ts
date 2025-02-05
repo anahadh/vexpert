@@ -16,7 +16,7 @@ export default {
       },
       fontFamily: {
         title: ['Outfit', 'sans-serif'],
-        text: ['Poppins', 'sans-serif'],
+        para: ['Poppins', 'sans-serif'],
       },
     },
   },
